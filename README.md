@@ -7,14 +7,14 @@ Fort d'un parcours mixte alliant commerce et informatique, je suis **Responsable
 
 ---
 
-### 💼 Mon Profil Professionnel
+### 💼 Mon Profil Professionnel:
 * **Expertise ERP & Business :** Audit fonctionnel, déploiement, support de niveau 2/3 et gestion de projet commerciale/négoce.
 * **Données & Analyse :** Maîtrise de SQL (PostgreSQL, SQL Server, Oracle) pour extraire de la valeur et structurer les données métiers.
 * **Management & Qualité :** Pilotage d'équipes support, conduite du changement et structuration de processus opérationnels.
 
 ---
 
-### 🚀 Mes Projets Open Source & Outils favoris
+### 🚀 Mes Projets Open Source & Outils favoris:
 
 Voici un aperçu des projets que je développe à mes heures perdues pour automatiser, orchestrer ou résoudre des problématiques concrètes :
 
