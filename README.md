@@ -2,7 +2,7 @@
  
 > Je fais le pont entre le terrain métier (ERP, négoce, distribution) et le code qui automatise ce que personne n'a le temps de faire à la main.
  
-Responsable Informatique & Consultant ERP le jour (gestion commerciale, négoce de matériaux, grande distribution) — développeur autodidacte le soir. Le fil rouge de tout ce que je construis : des systèmes qui ne se parlent pas, et que je fais quand même communiquer.
+Consultant ERP le jour — sur un rôle transverse entre technique et support (gestion commerciale, WMS, retail)  — développeur autodidacte le soir. Le fil rouge de tout ce que je construis : des systèmes qui ne se parlent pas, et que je fais quand même communiquer.
  
 ---
  
