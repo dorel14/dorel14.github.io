@@ -2,13 +2,13 @@
  
 > Je fais le pont entre le terrain métier (ERP, négoce, distribution) et le code qui automatise ce que personne n'a le temps de faire à la main.
  
-Consultant ERP le jour — sur un rôle transverse entre technique et support (gestion commerciale, WMS, retail)  — développeur autodidacte le soir. Le fil rouge de tout ce que je construis : des systèmes qui ne se parlent pas, et que je fais quand même communiquer.
+Consultant ERP le jour — sur un rôle transverse entre technique et support (gestion commerciale, négoce de matériaux, grande distribution) — développeur autodidacte le soir. Le fil rouge de tout ce que je construis : des systèmes qui ne se parlent pas, et que je fais quand même communiquer.
  
 ---
  
 ## Ce que je fais concrètement
  
-Sur le terrain, j'audite, je déploie et je dépanne des ERP — support N2/N3, conduite de projet, conduite du changement. Le problème récurrent : chaque outil (ERP, téléphonie, bureautique, messagerie interne) vit dans sa bulle. Alors je code des passerelles.
+Sur le terrain, je suis le point de passage entre le métier et la technique : audit fonctionnel des ERP, support N2/N3, conduite de projet, conduite du changement. Le problème récurrent : chaque outil (ERP, téléphonie, bureautique, messagerie interne) vit dans sa bulle. Alors je code des passerelles.
  
 ### Côté outillage & perf (mes projets les plus récents)
  
@@ -34,6 +34,12 @@ Et en coulisses : des macros VBA/VBScript qui branchent Excel ou Access sur des 
 | JavaScript | Téléphonie IP (3CX) |
 | SQL (PostgreSQL, SQL Server, Oracle, SQLite) | Taskiq / Celery (files d'attente, tâches de fond) |
 | VBA / VBScript | |
+ 
+---
+ 
+## Comment je fais produire le code
+ 
+25 ans d'expérience entre métier et technique m'ont appris une chose : la valeur n'est pas dans le fait de taper les lignes de code, elle est dans la capacité à cadrer le bon problème, à juger si une architecture tient la route, et à repérer ce qui ne va pas dans un résultat. En 2026, ça se traduit concrètement par un mode de travail assisté par des agents IA : je pousse les spécifications et les orientations métier, je valide l'architecture globale (et je réoriente si besoin), je relis la documentation produite — et je remets moi-même les mains dans le code quand il est mal fait ou incompréhensible. L'agent accélère l'exécution ; le jugement reste le mien.
  
 ---
  
